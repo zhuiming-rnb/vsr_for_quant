@@ -1,1 +1,0 @@
-# vsr_for_quant
